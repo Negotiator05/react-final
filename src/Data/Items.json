@@ -1,0 +1,29 @@
+
+
+
+   
+
+            [
+                {
+                    "id": 1,
+                    "name": "La Sportiva TC Pro Climbing Shoes",
+                    "price": 219,
+                    "imgUrl": "/images/la_sportiva.jpeg"
+                },
+
+                {
+                    "id": 2,
+                    "name": "Adadias 5.10 Climbing Shoes",
+                    "price": 150,
+                    "imgUrl": "/images/adadias_5.10.jpeg"
+                },
+                {
+                    "id": 3,
+                    "name": "Black Diamond Momentum Harness",
+                    "price": 64.95,
+                    "imgUrl": "/images/black_diamond_momentum_harness.jpeg"
+                }
+                
+            ]
+              
+
